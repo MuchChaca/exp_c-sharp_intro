@@ -1,0 +1,10 @@
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\bin\Debug\TrouvUnLoto.exe.config
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\bin\Debug\TrouvUnLoto.exe
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\bin\Debug\TrouvUnLoto.pdb
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\obj\Debug\TrouvUnLoto.csprojAssemblyReference.cache
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\obj\Debug\TrouvUnLoto.Form1.resources
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\obj\Debug\TrouvUnLoto.Properties.Resources.resources
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\obj\Debug\TrouvUnLoto.csproj.GenerateResource.cache
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\obj\Debug\TrouvUnLoto.csproj.CoreCompileInputs.cache
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\obj\Debug\TrouvUnLoto.exe
+C:\Users\sbastide\source\repos\TrouvUnLoto\TrouvUnLoto\obj\Debug\TrouvUnLoto.pdb
